@@ -1,4 +1,4 @@
-## <center> Compositores: </center>
+## <center> Compositores: </center> 
 #### <center> Carlos Reynoso 2021-1188 </center>
 #### <center> Neifi Medina 2021-0959 </center>
 #### <center> Eddy Mena 2021-0942 </center>
